@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\22ckramer\desktop\c++\projects\sorting and searching arrays\sorting and searching arrays\source.cpp(63): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sorting and Searching Arrays.vcxproj -> C:\Users\22ckramer\Desktop\C++\Projects\Sorting and Searching Arrays\Debug\Sorting and Searching Arrays.exe

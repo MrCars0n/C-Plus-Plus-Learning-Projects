@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\22ckramer\desktop\c++\projects\magic square pd2\magic square pd2\source.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\22ckramer\desktop\c++\projects\magic square pd2\magic square pd2\source.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Magic Square Pd2.vcxproj -> C:\Users\22ckramer\Desktop\C++\Projects\Magic Square Pd2\Debug\Magic Square Pd2.exe

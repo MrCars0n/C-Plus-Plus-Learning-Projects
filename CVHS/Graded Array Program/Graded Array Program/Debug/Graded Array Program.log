@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\22ckramer\desktop\c++\projects\graded array program\graded array program\source.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\22ckramer\desktop\c++\projects\graded array program\graded array program\source.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\22ckramer\desktop\c++\projects\graded array program\graded array program\source.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Graded Array Program.vcxproj -> C:\Users\22ckramer\Desktop\C++\Projects\Graded Array Program\Debug\Graded Array Program.exe

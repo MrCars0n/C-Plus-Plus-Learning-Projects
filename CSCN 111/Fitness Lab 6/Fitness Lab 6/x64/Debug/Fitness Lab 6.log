@@ -1,0 +1,5 @@
+﻿  Fitness Lab 6.cpp
+C:\Users\carso\OneDrive\Documents\CSCN 111\Fitness Lab 6\Fitness Lab 6\Fitness Lab 6.cpp(130,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\carso\OneDrive\Documents\CSCN 111\Fitness Lab 6\Fitness Lab 6\Fitness Lab 6.cpp(134,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\carso\OneDrive\Documents\CSCN 111\Fitness Lab 6\Fitness Lab 6\Fitness Lab 6.cpp(138,25): warning C4305: '-=': truncation from 'double' to 'float'
+  Fitness Lab 6.vcxproj -> C:\Users\carso\OneDrive\Documents\CSCN 111\Fitness Lab 6\x64\Debug\Fitness Lab 6.exe

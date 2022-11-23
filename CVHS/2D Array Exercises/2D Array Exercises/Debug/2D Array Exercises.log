@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\22ckramer\desktop\c++\projects\2d array exercises\2d array exercises\source.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  2D Array Exercises.vcxproj -> C:\Users\22ckramer\Desktop\C++\Projects\2D Array Exercises\Debug\2D Array Exercises.exe

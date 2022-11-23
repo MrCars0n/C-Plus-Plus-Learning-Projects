@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\22ckramer\desktop\c++\projects\8 queens\8 queens\source.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\22ckramer\desktop\c++\projects\8 queens\8 queens\source.cpp(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  8 Queens.vcxproj -> C:\Users\22ckramer\Desktop\C++\Projects\8 Queens\Debug\8 Queens.exe

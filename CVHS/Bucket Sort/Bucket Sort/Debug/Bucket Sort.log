@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\22ckramer\desktop\bucket sort\bucket sort\source.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bucket Sort.vcxproj -> C:\Users\22ckramer\Desktop\Bucket Sort\Debug\Bucket Sort.exe

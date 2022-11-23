@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\22ckramer\desktop\mp3 extra credit\mp3 extra credit\ec.h(37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\22ckramer\desktop\mp3 extra credit\mp3 extra credit\ec.h(75): warning C4715: 'removeZeros': not all control paths return a value
+  MP3 Extra Credit.vcxproj -> C:\Users\22ckramer\Desktop\MP3 Extra Credit\Debug\MP3 Extra Credit.exe

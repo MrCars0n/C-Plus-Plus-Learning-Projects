@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\22ckramer\desktop\c++\projects\textbook problems 10-16-19\5.20\5.20\source.cpp(6): warning C4101: 'side3': unreferenced local variable
+c:\users\22ckramer\desktop\c++\projects\textbook problems 10-16-19\5.20\5.20\source.cpp(6): warning C4101: 'side2': unreferenced local variable
+c:\users\22ckramer\desktop\c++\projects\textbook problems 10-16-19\5.20\5.20\source.cpp(6): warning C4101: 'side1': unreferenced local variable
+  5.20.vcxproj -> C:\Users\22ckramer\Desktop\C++\Projects\Textbook Problems 10-16-19\5.20\Debug\5.20.exe

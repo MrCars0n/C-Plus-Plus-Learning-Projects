@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\22ckramer\desktop\vectors\vectors\source.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\22ckramer\desktop\vectors\vectors\source.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\22ckramer\desktop\vectors\vectors\source.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\22ckramer\desktop\vectors\vectors\source.cpp(63): warning C4018: '<': signed/unsigned mismatch
+  Vectors.vcxproj -> C:\Users\22ckramer\Desktop\Vectors\Debug\Vectors.exe

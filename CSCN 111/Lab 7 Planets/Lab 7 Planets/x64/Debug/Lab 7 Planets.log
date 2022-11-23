@@ -1,0 +1,12 @@
+﻿  Lab 7 Planets.cpp
+C:\Users\carso\OneDrive\Documents\CSCN 111\Lab 7 Planets\Lab 7 Planets\Lab 7 Planets.cpp(70,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\carso\OneDrive\Documents\CSCN 111\Lab 7 Planets\Lab 7 Planets\Lab 7 Planets.cpp(72,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\carso\OneDrive\Documents\CSCN 111\Lab 7 Planets\Lab 7 Planets\Lab 7 Planets.cpp(74,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\carso\OneDrive\Documents\CSCN 111\Lab 7 Planets\Lab 7 Planets\Lab 7 Planets.cpp(76,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\carso\OneDrive\Documents\CSCN 111\Lab 7 Planets\Lab 7 Planets\Lab 7 Planets.cpp(78,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\carso\OneDrive\Documents\CSCN 111\Lab 7 Planets\Lab 7 Planets\Lab 7 Planets.cpp(80,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\carso\OneDrive\Documents\CSCN 111\Lab 7 Planets\Lab 7 Planets\Lab 7 Planets.cpp(82,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\carso\OneDrive\Documents\CSCN 111\Lab 7 Planets\Lab 7 Planets\Lab 7 Planets.cpp(84,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\carso\OneDrive\Documents\CSCN 111\Lab 7 Planets\Lab 7 Planets\Lab 7 Planets.cpp(86,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\carso\OneDrive\Documents\CSCN 111\Lab 7 Planets\Lab 7 Planets\Lab 7 Planets.cpp(88,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Lab 7 Planets.vcxproj -> C:\Users\carso\OneDrive\Documents\CSCN 111\Lab 7 Planets\x64\Debug\Lab 7 Planets.exe

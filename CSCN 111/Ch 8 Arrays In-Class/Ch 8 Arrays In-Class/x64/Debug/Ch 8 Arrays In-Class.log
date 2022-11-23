@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\carso\OneDrive\Documents\CSCN 111\Ch 8 Arrays In-Class\Ch 8 Arrays In-Class\Source.cpp(15,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\carso\OneDrive\Documents\CSCN 111\Ch 8 Arrays In-Class\Ch 8 Arrays In-Class\Source.cpp(68,38): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Ch 8 Arrays In-Class.vcxproj -> C:\Users\carso\OneDrive\Documents\CSCN 111\Ch 8 Arrays In-Class\x64\Debug\Ch 8 Arrays In-Class.exe

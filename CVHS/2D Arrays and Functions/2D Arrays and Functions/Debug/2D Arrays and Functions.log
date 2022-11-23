@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\c++\projects\2d arrays and functions\2d arrays and functions\source.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  2D Arrays and Functions.vcxproj -> D:\C++\Projects\2D Arrays and Functions\Debug\2D Arrays and Functions.exe

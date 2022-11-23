@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\22ckramer\desktop\c++\projects\arrays exercise (on your own)\arrays exercise (on your own)\source.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Arrays Exercise (On Your Own).vcxproj -> C:\Users\22ckramer\Desktop\C++\Projects\Arrays Exercise (On Your Own)\Debug\Arrays Exercise (On Your Own).exe
