@@ -1,0 +1,30 @@
+// CSCN 112-001 Spring 2023
+// Review In-Class Exercise
+
+/*
+	ALGORITHM
+*/
+
+// Include statements (pre-processing directives)
+#include<iostream> // cin & cout
+
+// Namespace
+using namespace std;
+
+// Global Variables - constants only
+
+// Function Prototypes
+
+int main()
+{
+	cout << "CSCN 112 - Spring 2023 - In-Class Review" << endl << endl;
+
+	// Local Variables
+
+	// Program Logic
+
+	system("pause");
+	return 0;
+}
+
+// Function definitions
