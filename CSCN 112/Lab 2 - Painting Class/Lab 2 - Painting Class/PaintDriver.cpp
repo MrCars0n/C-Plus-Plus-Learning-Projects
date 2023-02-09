@@ -17,13 +17,16 @@ const int paintPerGallon = 350; // 350 - 400 sq ft per gallon. Choose 350 to sho
 // Prompts user input for function values
 void promptUser(float& length, float& width, float& height);
 
+// Calculated the paintable area (explained below)
+float calculateGallonsNeeded(Room room);
+
 // Main function
 int main()
 {
 	cout << "Carson Kramer - CSCN 112 - Spring 2023 - Lab 2" << endl << endl;
 
 	// Local variables
-	float l, w, h, gallonsNeeded;
+	float l, w, h;
 
 	// Creates an instance of a Room (using the zero-argument constructor)
 	Room room1;
@@ -49,8 +52,7 @@ int main()
 			// Use calculated the paintable area with constant in main to calculate 
 			//  and print out the number of gallons of paint needed for that room
 			//  No rounding to show exact amount of gallons used, transparency allowing user to decide to round or not
-			gallonsNeeded = room1.calcPaintedArea()/ paintPerGallon;
-			cout << setw(20) << left << "Gallons Required: " << right << gallonsNeeded << " gal" << endl << endl;
+			cout << setw(20) << left << "Gallons Required: " << right << calculateGallonsNeeded(room1) << " gal" << endl << endl;
 		}
 	} while (l != -1 && w != -1 && h != -1);
 	
@@ -116,4 +118,12 @@ void promptUser(float& length, float& width, float& height)
 		cout << "Invalid input. Value needs to be a non-negative number. Please try again: ";
 		cin >> height;
 	}
+}
+
+// Use calculated the paintable area with constant in main to calculate 
+//  and print out the number of gallons of paint needed for that room
+//  No rounding to show exact amount of gallons used, transparency allowing user to decide to round or not
+float calculateGallonsNeeded(Room room)
+{
+	return room.calcPaintedArea() / paintPerGallon;
 }
