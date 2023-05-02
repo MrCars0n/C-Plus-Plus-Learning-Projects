@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\carso\OneDrive\Documents\CSCN 112\Participation Lab 4\Participation Lab 4\Main.cpp(20,18): warning C4305: 'argument': truncation from 'double' to 'dType'
+          with
+          [
+              dType=float
+          ]
+C:\Users\carso\OneDrive\Documents\CSCN 112\Participation Lab 4\Participation Lab 4\Main.cpp(20,36): warning C4305: 'argument': truncation from 'double' to 'dType'
+          with
+          [
+              dType=float
+          ]
+  Participation Lab 4.vcxproj -> C:\Users\carso\OneDrive\Documents\CSCN 112\Participation Lab 4\x64\Debug\Participation Lab 4.exe

@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\carso\OneDrive\Documents\CSCN 112\ParticipationLab3_Room\ParticipationLab3_Room\Main.cpp(31,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  Room.cpp
+C:\Users\carso\OneDrive\Documents\CSCN 112\ParticipationLab3_Room\ParticipationLab3_Room\Room.cpp(95,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\carso\OneDrive\Documents\CSCN 112\ParticipationLab3_Room\ParticipationLab3_Room\Room.cpp(97,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\carso\OneDrive\Documents\CSCN 112\ParticipationLab3_Room\ParticipationLab3_Room\Room.cpp(111,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  ParticipationLab3_Room.vcxproj -> C:\Users\carso\OneDrive\Documents\CSCN 112\ParticipationLab3_Room\x64\Debug\ParticipationLab3_Room.exe

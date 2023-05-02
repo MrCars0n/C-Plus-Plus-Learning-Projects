@@ -1,0 +1,10 @@
+*************************************
+            Room Details:
+  Length:                      7.20
+  Width:                       7.20
+  Height:                      7.20
+  Number of Coats:                7
+  Volume:                    373.25
+  Paintable Area:            207.36
+  Number of Cans:              3.63
+*************************************
