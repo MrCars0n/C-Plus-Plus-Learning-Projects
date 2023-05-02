@@ -1,0 +1,3 @@
+﻿  SecretMessage.cpp
+C:\Users\carso\OneDrive\Documents\CSCN 112\Lab 5 - Messaging System\Lab 5 - Messaging System\SecretMessage.cpp(202,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab 5 - Messaging System.vcxproj -> C:\Users\carso\OneDrive\Documents\CSCN 112\Lab 5 - Messaging System\x64\Debug\Lab 5 - Messaging System.exe

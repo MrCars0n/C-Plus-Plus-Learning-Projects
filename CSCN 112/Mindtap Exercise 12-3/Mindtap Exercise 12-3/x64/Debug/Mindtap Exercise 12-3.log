@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\carso\OneDrive\Documents\CSCN 112\Mindtap Exercise 12-3\Mindtap Exercise 12-3\main.cpp(53,25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Mindtap Exercise 12-3.vcxproj -> C:\Users\carso\OneDrive\Documents\CSCN 112\Mindtap Exercise 12-3\x64\Debug\Mindtap Exercise 12-3.exe

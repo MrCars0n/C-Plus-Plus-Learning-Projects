@@ -1,0 +1,32 @@
+************************************************
+                        carson
+                 Final Invoice
+************************************************
+
+WePaintHouses LLC
+1971 University Blvd
+Lynchburg, VA 24502
+4344554545
+wepainthousesllc.com
+
+Billed to: carson
+
+-----------------------------------------------------
+                 Labor Charges
+               -----------------
+Rooms     Number of coats    Hourly Rate     Total
+0         0                  18.50             0.00
+
+               Product Charges
+               -----------------
+Room #    Paint Cans         Unit Cost    Amount
+Total Product Charges:                   $0.00
+
+                Travel Charges
+               -----------------
+Mileage   Rate Per Mile      Total
+2.00      0.67               $1.34
+
+Final Total:                 $1.34
+-----------------------------------------------------
+
