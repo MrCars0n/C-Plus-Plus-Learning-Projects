@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\carso\OneDrive\Documents\CSCN 112\Lab 7 - Location Profit Calculator\Lab 7 - Location Profit Calculator\Main.cpp(259,8): warning C4101: 'salary': unreferenced local variable
+C:\Users\carso\OneDrive\Documents\CSCN 112\Lab 7 - Location Profit Calculator\Lab 7 - Location Profit Calculator\Main.cpp(614,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab 7 - Location Profit Calculator.vcxproj -> C:\Users\carso\OneDrive\Documents\CSCN 112\Lab 7 - Location Profit Calculator\x64\Debug\Lab 7 - Location Profit Calculator.exe

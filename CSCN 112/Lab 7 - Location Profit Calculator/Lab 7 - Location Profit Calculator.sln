@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab 7 - Location Profit Calculator", "Lab 7 - Location Profit Calculator\Lab 7 - Location Profit Calculator.vcxproj", "{49CD5F3A-F12B-4F51-AAD3-A0F61CC47863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49CD5F3A-F12B-4F51-AAD3-A0F61CC47863}.Debug|x64.ActiveCfg = Debug|x64
+		{49CD5F3A-F12B-4F51-AAD3-A0F61CC47863}.Debug|x64.Build.0 = Debug|x64
+		{49CD5F3A-F12B-4F51-AAD3-A0F61CC47863}.Debug|x86.ActiveCfg = Debug|Win32
+		{49CD5F3A-F12B-4F51-AAD3-A0F61CC47863}.Debug|x86.Build.0 = Debug|Win32
+		{49CD5F3A-F12B-4F51-AAD3-A0F61CC47863}.Release|x64.ActiveCfg = Release|x64
+		{49CD5F3A-F12B-4F51-AAD3-A0F61CC47863}.Release|x64.Build.0 = Release|x64
+		{49CD5F3A-F12B-4F51-AAD3-A0F61CC47863}.Release|x86.ActiveCfg = Release|Win32
+		{49CD5F3A-F12B-4F51-AAD3-A0F61CC47863}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9239FBE5-1588-4C1B-B9FE-7F14DDD593C6}
+	EndGlobalSection
+EndGlobal

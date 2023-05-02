@@ -1,0 +1,3 @@
+﻿  Inventory.cpp
+C:\Users\carso\OneDrive\Documents\CSCN 112\Lab 8 - Inventory System\Lab 8 - Inventory System\Inventory.cpp(162,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab 8 - Inventory System.vcxproj -> C:\Users\carso\OneDrive\Documents\CSCN 112\Lab 8 - Inventory System\x64\Debug\Lab 8 - Inventory System.exe
