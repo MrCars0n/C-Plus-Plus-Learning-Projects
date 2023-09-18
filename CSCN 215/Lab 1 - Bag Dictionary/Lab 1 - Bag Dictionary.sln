@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab 1 - Bag Dictionary", "Lab 1 - Bag Dictionary\Lab 1 - Bag Dictionary.vcxproj", "{0BA47C41-239C-48CD-9AD1-A69F62C74C7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA47C41-239C-48CD-9AD1-A69F62C74C7A}.Debug|x64.ActiveCfg = Debug|x64
+		{0BA47C41-239C-48CD-9AD1-A69F62C74C7A}.Debug|x64.Build.0 = Debug|x64
+		{0BA47C41-239C-48CD-9AD1-A69F62C74C7A}.Debug|x86.ActiveCfg = Debug|Win32
+		{0BA47C41-239C-48CD-9AD1-A69F62C74C7A}.Debug|x86.Build.0 = Debug|Win32
+		{0BA47C41-239C-48CD-9AD1-A69F62C74C7A}.Release|x64.ActiveCfg = Release|x64
+		{0BA47C41-239C-48CD-9AD1-A69F62C74C7A}.Release|x64.Build.0 = Release|x64
+		{0BA47C41-239C-48CD-9AD1-A69F62C74C7A}.Release|x86.ActiveCfg = Release|Win32
+		{0BA47C41-239C-48CD-9AD1-A69F62C74C7A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66E4D676-DFC9-48FF-86B1-2D068A526612}
+	EndGlobalSection
+EndGlobal
