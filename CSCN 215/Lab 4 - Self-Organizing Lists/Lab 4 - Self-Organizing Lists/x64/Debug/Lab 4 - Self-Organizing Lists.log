@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\carso\OneDrive\Documents\CSCN 215\Lab 4 - Self-Organizing Lists\Lab 4 - Self-Organizing Lists\book.h(74,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88,1): message : see previous definition of 'INFINITY'
+  Lab 4 - Self-Organizing Lists.vcxproj -> C:\Users\carso\OneDrive\Documents\CSCN 215\Lab 4 - Self-Organizing Lists\x64\Debug\Lab 4 - Self-Organizing Lists.exe
