@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\carso\OneDrive\Documents\CSCN 215\Lab 5 - Minimum Cost Spanning Tree (MST)\Lab 5 - Minimum Cost Spanning Tree (MST)\MST.h(24,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\carso\OneDrive\Documents\CSCN 215\Lab 5 - Minimum Cost Spanning Tree (MST)\Lab 5 - Minimum Cost Spanning Tree (MST)\main.cpp(44,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab 5 - Minimum Cost Spanning Tree (MST).vcxproj -> C:\Users\carso\OneDrive\Documents\CSCN 215\Lab 5 - Minimum Cost Spanning Tree (MST)\x64\Debug\Lab 5 - Minimum Cost Spanning Tree (MST).exe

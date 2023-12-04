@@ -1,0 +1,15 @@
+Begin MST 2 starting at Vertex 4
+Add edge 4 to 5
+Add edge 5 to 3
+Add edge 5 to 2
+Add edge 2 to 1
+Add edge 2 to 0
+
+0 0 7 0 0 0 
+0 0 5 0 0 0 
+7 5 0 0 0 2 
+0 0 0 0 0 2 
+0 0 0 0 0 1 
+0 0 2 2 1 0 
+End of MST 2
+
